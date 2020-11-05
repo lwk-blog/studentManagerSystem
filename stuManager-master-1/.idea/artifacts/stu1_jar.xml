@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="stu1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stu1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="stu1.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/stu1/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="stu1" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.18" />
+      <element id="library" level="project" name="JSpaces" />
+    </root>
+  </artifact>
+</component>

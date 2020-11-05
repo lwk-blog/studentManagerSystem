@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/stu1/JSpaces.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Class/ClassAddFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Class/ClassChange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Class/ClassManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Course/CourseAddFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Course/CourseChange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Course/CourseManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Depart/DepartAddFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Depart/DepartChange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Depart/DepartManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Score/ScoreChange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Score/ScoreInput.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Score/ScoreManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Student/StudentChange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Student/StudentInfoAddFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/Student/StudentManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/User/UserAddFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/User/UserDeleteFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/User/UserPasswordFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/img/1.jpeg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/mysql-connector-java-5.1.18.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/stuManager/LoginFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu1/src/stuManager/MainFrame.java" charset="UTF-8" />
+  </component>
+</project>
